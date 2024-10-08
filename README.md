@@ -13,9 +13,9 @@ Outil collaboratif : <a href="https://drive.google.com/drive/folders/1bPomgr3IFv
 
 ### Membres du projet :
 Quentin BLASCO<BR/>
-Andy<BR/>
-Kevin<BR/>
-Dorian<BR/>
-Paul Henri<BR/>
+Andy JEANTY<BR/>
+Kevin DUHAMEL<BR/>
+Dorian MARTY<BR/>
+Paul Henri DOURNEAU<BR/>
 
 #### Version 1.0 du 11/10/2024
