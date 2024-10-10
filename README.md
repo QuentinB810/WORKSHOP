@@ -14,10 +14,10 @@ Présentation : <a href="https://www.canva.com/design/DAGTETb56Lw/Zvr6JwO5GYSVfy
 
 
 ### Membres du projet :
-Quentin BLASCO<BR/>
-Andy JEANTY<BR/>
-Kevin DUHAMEL<BR/>
-Dorian MARTY<BR/>
-Paul Henri DOURNEAU<BR/>
+Quentin BLASCO - Chef de projet et chargé de Cybersécurité<BR/>
+Andy JEANTY - Développeur d'application<BR/>
+Kevin DUHAMEL - Designer<BR/>
+Dorian MARTY - Développer IA<BR/>
+Paul-Henri DOURNEAU - Développer IA<BR/>
 
 #### Version 1.0 du 11/10/2024
