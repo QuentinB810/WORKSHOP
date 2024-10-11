@@ -8,7 +8,7 @@ Dans ce projet, nous vous proposons une plateforme permettant l'unification de c
 ## SUPPORTS
 Maquette : <a href="https://www.figma.com/design/30TCbjKa9se5Lcbkm23Mwg/Untitled?node-id=0-1&node-type=canvas&t=fMX9udO3OP6RU41B-0" target="_blank">Figma</a> <BR/>
 Gestion de projet : <a href="https://trello.com/b/rKkdUzXn/workshop" target="_blank">Trello</a> <BR/>
-Outil collaboratif : <a href="https://drive.google.com/drive/folders/1bPomgr3IFvhMmQsMLCwdiSotEafGyIAL" target="_blank">Google Drive</a> <BR/>
+Outil collaboratif : <a href="https://drive.google.com/drive/folders/1ios6EhbFSRIgtlFjt3i5VLFRvu4kPNhZ?usp=sharing" target="_blank">Google Drive</a> <BR/>
 Présentation : <a href="https://www.canva.com/design/DAGTETb56Lw/Zvr6JwO5GYSVfycV45BXYw/edit?utm_content=DAGTETb56Lw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 " target="_blank">Canva</a>
 
